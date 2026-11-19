@@ -27,7 +27,7 @@ export const persona = {
 export const links = {
   github: "https://github.com/Dameowth",
   linkedin: "https://www.linkedin.com/in/Dameowth",
-  cv: "https://drive.google.com/tu-curriculum",
+  cv: "https://drive.google.com/file/d/1pQsC_2K6EgCP9v7BiEbHVnP_zvz-2JTC/view?usp=drive_link",
 };
 
 export const skills: SkillGroup[] = [
